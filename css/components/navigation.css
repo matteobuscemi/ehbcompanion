@@ -1,7 +1,16 @@
-.main-nav li{
-  display: inline-block;
+nav {
+    display: flex;
+    justify-content: flex-end;
+    height: 5vh;
+    flex-direction: row;
+
+}
+nav img {
+    width: 5vw;
+        padding: 1em;
 }
 
-.main-nav a{
-  margin-bottom: 4px;
+nav input {
+    width: 95vw;
+    border: 0;
 }
