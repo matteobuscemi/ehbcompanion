@@ -2,12 +2,8 @@
 *     Import fonts       *
 **************************/
 @font-face{
-  font-family: poppins;
-  src: url(../../fonts/poppins-v5-latin-regular.eot) format("embedded-opentype"),
-  url(../../fonts/poppins-v5-latin-regular.woff) format("woff"),    
-  url(../../fonts/poppins-v5-latin-regular.woff2) format("woff2"), 
-  url(../../fonts/poppins-v5-latin-regular.svg) format("svg"),
-  url(../../fonts/poppins-v5-latin-regular.ttf) format("truetype"),
+  font-family: Comfortaa, cursive;
+  src: url(../../fonts/Comfortaa.ttf) format('truetype'),
 }
 
 /*************************
@@ -15,11 +11,11 @@
 **************************/
 *{ 
    font-size: 1.7rem;
+font-family: 'Comfortaa' , cursive;
+}
 }
 
-h1, h2{
-  font-family: 'poppins', helvetica , sans-serif;
-}
+
 
 h1{
   font-size: 5rem;
