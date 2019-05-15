@@ -1,0 +1,34 @@
+/*************************
+*     Import fonts       *
+**************************/
+@font-face{
+  font-family: poppins;
+  src: url(../../fonts/poppins-v5-latin-regular.eot) format("embedded-opentype"),
+  url(../../fonts/poppins-v5-latin-regular.woff) format("woff"),    
+  url(../../fonts/poppins-v5-latin-regular.woff2) format("woff2"), 
+  url(../../fonts/poppins-v5-latin-regular.svg) format("svg"),
+  url(../../fonts/poppins-v5-latin-regular.ttf) format("truetype"),
+}
+
+/*************************
+*         Fonts          *
+**************************/
+*{ 
+   font-size: 1.7rem;
+}
+
+h1, h2{
+  font-family: 'poppins', helvetica , sans-serif;
+}
+
+h1{
+  font-size: 5rem;
+}
+
+main h1{
+  font-size: 4rem;
+}
+
+a{
+  font-size: 1.9rem;
+}

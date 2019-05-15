@@ -1,0 +1,41 @@
+/*************************
+*         Worlds         *
+**************************/
+#worlds{
+  margin: 20px auto;
+}
+
+.world{
+  width: 50%;
+  padding: 8rem 0;
+  cursor: pointer;
+}
+
+#world1{
+  background-color: #ff00d8;
+}
+
+#world2{
+  background-color: #00ffff;
+}
+
+.world p {
+  text-align: center;
+}
+
+/*************************
+*        Players         *
+**************************/
+#players{
+  background-color: antiquewhite;  
+  padding: 20px;
+}
+
+.player-list li{
+  list-style-position: inside;
+}
+
+.register{
+  margin-top: 30px;
+  text-align: center;
+}
