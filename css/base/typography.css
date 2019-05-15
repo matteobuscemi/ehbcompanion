@@ -32,3 +32,8 @@ main h1{
 a{
   font-size: 1.9rem;
 }
+
+::placeholder {
+    font-size: 2em;
+    padding: 1em;
+}

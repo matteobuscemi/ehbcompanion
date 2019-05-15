@@ -3,6 +3,7 @@ nav {
     justify-content: flex-end;
     height: 5vh;
     flex-direction: row;
+    background-color: white;
 
 }
 nav img {
