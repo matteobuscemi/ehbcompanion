@@ -1,0 +1,31 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    width: 100vw;
+    justify-content: center;
+    
+    align-content: center;
+    height: 100vh;
+    
+
+}
+.menuknop img{
+    width: 28vw;
+    height: 28vw;
+}
+.menuknop  {
+    width: 28vw;
+    height: 28vw;
+    padding: 10vw;
+   margin: 1vw;
+        background-color: rgba(0,0,0,48%);
+    border-radius: 20px;
+    text-align: center;
+   
+}
+
+.menuknop p {
+    padding-top: 2vw;
+}

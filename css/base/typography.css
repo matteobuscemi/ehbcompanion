@@ -37,3 +37,8 @@ a{
     font-size: 2em;
     padding: 1em;
 }
+.menu p {
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
