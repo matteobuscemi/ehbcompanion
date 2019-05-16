@@ -2,8 +2,9 @@
 *     Import fonts       *
 **************************/
 @font-face{
-  font-family: Comfortaa, cursive;
-  src: url(../../fonts/Comfortaa.ttf) format('truetype'),
+  font-family: 'Trade Gothic', cursive;
+  src: url(../../fonts/trade-gothic-lt-std-58a78e64434a9.otf) format('opentype'),
+      url(../../fonts/trade-gothic-lt-std-bold-condensed-no-20-5872def1d27d8.otf) format('opentype'),
 }
 
 /*************************
@@ -11,7 +12,7 @@
 **************************/
 *{ 
    font-size: 1.7rem;
-font-family: 'Comfortaa' , cursive;
+font-family: 'Trade Gothic' , cursive;
 }
 }
 
