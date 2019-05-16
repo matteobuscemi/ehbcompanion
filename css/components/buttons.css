@@ -7,7 +7,9 @@
     justify-content: center;
     
     align-content:flex-end;
-    height: 115vh;
+    height: 105vh;
+    padding-top: 4vw;
+    padding-bottom: 5vw;
     
 
 }
@@ -18,14 +20,10 @@
 .menuknop  {
     width: 28vw;
     height: 28vw;
-    padding: 10vw;
-   margin: 1vw;
+    padding: 7vw;
+   margin: 2vw;
         background-color: rgba(0,0,0,48%);
     border-radius: 20px;
     text-align: center;
    
 }
-
-/*.menuknop p {
-    padding-top: 2vw;
-}*/
