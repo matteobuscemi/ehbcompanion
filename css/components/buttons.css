@@ -6,8 +6,8 @@
     width: 100vw;
     justify-content: center;
     
-    align-content: center;
-    height: 100vh;
+    align-content:flex-end;
+    height: 115vh;
     
 
 }
@@ -26,6 +26,6 @@
    
 }
 
-.menuknop p {
+/*.menuknop p {
     padding-top: 2vw;
-}
+}*/
