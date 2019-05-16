@@ -1,0 +1,41 @@
+/*************************
+*     Import fonts       *
+**************************/
+@font-face{
+  font-family: 'Trade Gothic', cursive;
+  src: url(../../fonts/trade-gothic-lt-std-58a78e64434a9.otf) format('opentype'),
+      url(../../fonts/trade-gothic-lt-std-bold-condensed-no-20-5872def1d27d8.otf) format('opentype'),
+}
+
+/*************************
+*         Fonts          *
+**************************/
+*{ 
+   font-size: 1.7rem;
+font-family: 'Trade Gothic' , cursive;
+}
+}
+
+
+
+h1{
+  font-size: 5rem;
+}
+
+main h1{
+  font-size: 4rem;
+}
+
+a{
+  font-size: 1.9rem;
+}
+
+::placeholder {
+    font-size: 2em;
+    padding: 1em;
+}
+.menu p {
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
